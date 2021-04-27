@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MoonAppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryMoon</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMoon</item>
+        <item name="android:windowBackground">@color/colorWindowBackGroundMoon</item>
+        <item name="colorSurface">@color/colorSurfaceMoon</item>
+        <item name="android:textColor">@color/colorTextMoon</item>
+    </style>
+
+    <style name="TextInputEditTextStyle">
+        android:inputType="text"
+    </style>
+
+    <style name="ImageViewStyle">
+        android:layout_gravity="center"
+        android:contentDescription="@string/photo_of_the_day_stub"
+    </style>
+
+    <style name="FloatingActionButtonStyle">
+        android:backgroundTint="@color/colorAccent"
+    </style>
+
+
+</resources>
