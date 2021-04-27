@@ -4,4 +4,11 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="color_gray">#66000000</color>
+
+    <color name="colorPrimaryMoon">#06799F</color>
+    <color name="colorPrimaryDarkMoon">#0E53A7</color>
+    <color name="colorWindowBackGroundMoon">#01939A</color>
+    <color name="colorSurfaceMoon">#5858FA</color>
+    <color name="colorTextMoon">#58D3F7</color>
+
 </resources>
